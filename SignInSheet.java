@@ -4,6 +4,7 @@
  * File Name: SignInSheet.java
  * Last Update: 4/22/25 by Lillian H.
  * Last Update: 4/22/25 by James F.
+ * Last Update: 4/25/25 by Whitney S.
  * Program Description: The Program allows a user to enter their name into an array and prints out a confirmation message when run.
  */
 
@@ -13,7 +14,7 @@ Seth I. - 4/21/25 - Added Seth as the first element in the nameList array.
 Lillian H. - 4/22/25 - Added Lillian as the second element in the nameList array.
 James F. - 4/22/25 - Added James as the third element in the nameList array.
 Tiffany W. - 4/22/2025 - Added Tiffany as the fourth element in the nameList array.
-
+Whitney S. 4/25/2025 - Added Whitney as the fifth element in the nameList array.
 ======================================
  */
 
